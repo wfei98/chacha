@@ -1,0 +1,19 @@
+{
+	"style" : "default",
+   "config" : "save_111.dat",
+   "width" : 300,
+   "height" : 300,
+   "cancelname" : "取消",
+   "okname" : "确认",
+   "cancelscroll" : true,
+   "views" : [
+			   {
+              "id" : "RadioGroup1",
+               "list" : "主播,黄金,白银",
+               "select" : "0",
+               "size" : 30,
+               "type" : "RadioGroup",
+               "orientation" : "horizontal" //选项排布方式为竖排
+            }
+	]
+}

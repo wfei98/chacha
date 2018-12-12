@@ -1,0 +1,18 @@
+{
+    "style": "default", 
+    "config": "save.dat",
+    "width": 500,
+    "height": 800,  
+    "cancelname": "取消",  
+    "okname": "确认", 
+    "views": [
+		   {
+               "id" : "selectId",
+               "list" : "一幕电台,Listen电台,耳抚电台,初音电台,Luna电台,IF电台,拾光电台,原色电台,屿声电台,星辰电台,乐事电台,清暮电台,",
+               "select" : "0",
+               "size" : 30,
+               "type" : "RadioGroup",
+               "orientation" : "vertical" //选项排布方式为竖排
+            }
+    ]
+}
